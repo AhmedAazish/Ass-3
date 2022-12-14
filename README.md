@@ -1,1 +1,2 @@
-# Ass-3
+In this assignment, we have first arranged meetings and distributed tasks among us. We have explored the unit test framework for open-source and
+automate our unit tests. The first 3 unit tests are done by me (Aazish Ahmed) and the last 3 by Sharjeel Ahmad. I (Aazish Ahmed) have explored the static analysis tools (linters and SAST) and configured them for our project. Lastly, we have written Performance tests for our application using Jmeter. 
